@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import { AlertProvider } from './components/AlertProvider';
 import Main from './components/Main';
