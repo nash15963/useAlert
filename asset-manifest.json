@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nash15963/useAlert/static/css/main.073c9b0a.css",
-    "main.js": "/nash15963/useAlert/static/js/main.8dc24ff4.js",
-    "static/js/787.c1112931.chunk.js": "/nash15963/useAlert/static/js/787.c1112931.chunk.js",
-    "index.html": "/nash15963/useAlert/index.html",
-    "main.073c9b0a.css.map": "/nash15963/useAlert/static/css/main.073c9b0a.css.map",
-    "main.8dc24ff4.js.map": "/nash15963/useAlert/static/js/main.8dc24ff4.js.map",
-    "787.c1112931.chunk.js.map": "/nash15963/useAlert/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/useAlert/static/css/main.073c9b0a.css",
+    "main.js": "/useAlert/static/js/main.c9d5d00d.js",
+    "static/js/787.c1112931.chunk.js": "/useAlert/static/js/787.c1112931.chunk.js",
+    "index.html": "/useAlert/index.html",
+    "main.073c9b0a.css.map": "/useAlert/static/css/main.073c9b0a.css.map",
+    "main.c9d5d00d.js.map": "/useAlert/static/js/main.c9d5d00d.js.map",
+    "787.c1112931.chunk.js.map": "/useAlert/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8dc24ff4.js"
+    "static/js/main.c9d5d00d.js"
   ]
 }
